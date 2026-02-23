@@ -55,7 +55,7 @@ while bug:
 
 ---
 
-![Kevin](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=900&center=true&vCenter=true&width=420&height=70&color=FFFFFF&background=111111&lines=Kevin)
+![Name Grid](https://raw.githubusercontent.com/kriv-bit/kriv-bit/output/name-grid.svg)
 
 ---
 
