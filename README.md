@@ -51,17 +51,5 @@ while bug:
 
 ---
 
-## Portafolio
-
-👉 [https://kriv-bit.vercel.app](https://kriv-bit.vercel.app)
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kriv-bit\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriv-bit\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
 
 *Última actualización: 22 de febrero de 2026*
