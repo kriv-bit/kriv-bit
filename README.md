@@ -55,8 +55,7 @@ while bug:
 
 ---
 
-![Snake animation](https://github.com/kriv-bit/kriv-bit/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/kriv-bit/kriv-bit/output/github-contribution-grid-snake.svg)
 ---
 
 *Última actualización: 22 de febrero de 2026*
