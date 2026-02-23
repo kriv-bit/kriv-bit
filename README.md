@@ -1,9 +1,11 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Kevin%20Rivera&fontAlign=50&fontAlignY=40&fontSize=54&desc=Ing.%20de%20Sistemas%20%7C%209%C2%B0%20semestre%20%7C%20Universidad%20de%20Nari%C3%B1o%20%7C%20Pasto&descAlign=50&descAlignY=65&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=210&text=Kevin%20Rivera&fontAlign=50&fontAlignY=40&fontSize=54&desc=Ing.%20de%20Sistemas%20%7C%209%C2%B0%20semestre%20%7C%20Universidad%20de%20Nari%C3%B1o%20%7C%20Pasto&descAlign=50&descAlignY=65&animation=twinkling)
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-kriv--bit.vercel.app-111?style=for-the-badge&logo=vercel&logoColor=white)](https://kriv-bit.vercel.app)
 ![Ubicación](https://img.shields.io/badge/Pasto%2C%20Colombia-111?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Universidad](https://img.shields.io/badge/Universidad%20de%20Nari%C3%B1o-111?style=for-the-badge&logo=gradle&logoColor=white)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Python+lover+%F0%9F%90%8D;Automatizaci%C3%B3n+%2B+IA+aplicada;APIs+REST+%7C+Integraciones;Scraping+%7C+Datos+%7C+Herramientas)
 
 ---
 
@@ -11,6 +13,8 @@
 
 Estudiante de **Ingeniería de Sistemas (9° semestre)** en la **Universidad de Nariño**.  
 Me enfoco en **Python**, **automatización**, **APIs** y **datos** (scraping + procesamiento).
+
+> ✨ Construyo cosas pequeñas que resuelven problemas reales.
 
 ---
 
@@ -24,7 +28,7 @@ Me enfoco en **Python**, **automatización**, **APIs** y **datos** (scraping + p
 
 ---
 
-## Mentalidad 
+## Mentalidad
 
 ```python
 while bug:
@@ -51,5 +55,13 @@ while bug:
 
 ---
 
+![Snake animation](https://github.com/kriv-bit/kriv-bit/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 *Última actualización: 22 de febrero de 2026*
+
+```
+
+Si no quieres configurar nada, también te pongo otra decoración **sin snake** (solo stats/badges) y queda igual de bonito.
+```
