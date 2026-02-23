@@ -7,35 +7,36 @@
   <a href="https://kriv-bit.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-kriv--bit.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-San%20Juan%20de%20Pasto-000?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-San%20Juan%20de%20Pasto%2C%20Colombia-000?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Udenar-Universidad%20de%20Nari%C3%B1o-000?style=for-the-badge&logo=gradle&logoColor=white" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=500&center=true&vCenter=true&width=850&lines=Python+lover+%F0%9F%90%8D+%7C+Automatizaci%C3%B3n+%2B+IA;Backend+%7C+APIs+REST+%7C+Integraciones;Scraping+%7C+Scripts+%7C+Herramientas+de+0+a+1;Probando+LLMs+locales+livianos+(Qwen)+para+automatizar+cositas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=500&center=true&vCenter=true&width=900&lines=Python+lover+%F0%9F%90%8D+%7C+Automatizaci%C3%B3n+%2B+IA;Backend+%7C+APIs+REST+%7C+Integraciones;Scraping+%7C+Datos+%7C+Herramientas+de+0+a+1;Probando+LLMs+locales+(Qwen)+para+automatizar+cositas" />
 
 </div>
 
 ---
 
-## Hola
+## 👋 Hola, soy Kevin
 
-Soy estudiante de **Ingeniería de Sistemas (9° semestre)** en la **Universidad de Nariño** y vivo en **San Juan de Pasto, Colombia**.
+Soy estudiante de **Ingeniería de Sistemas (9° semestre)** en la **Universidad de Nariño**.  
+Vivo en **San Juan de Pasto, Colombia** 🇨🇴.
 
-Me gusta aprender **practicando** y construyendo cosas reales.  
-Soy de los que se “obsesionan” con resolver los problemas de su propio código: me gusta llevar una idea de **0 → 1**, romperla, arreglarla, entenderla y dejarla mejor.
+Me gusta aprender **construyendo**: llevar una idea de **0 → 1**, romperla, arreglarla, entenderla, y dejarla mejor.  
+Soy de los que se obsesionan con hacer que el código quede **entendible**, **mantenible** y listo para mejorar.
 
 ---
 
-## ⚡ Lo que más me gusta (y en lo que me la paso)
+## ⚡ En qué me enfoco
 
-- 🐍 **Python** (mi lenguaje favorito)
-- 🤖 **IA aplicada + automatización** (Python + IA para ahorrar tiempo y crear herramientas)
-- 🔌 **APIs** (consumirlas y construirlas: REST, integraciones, JSON)
-- 🕷️ **Web scraping** / recolección de datos (scrapear → limpiar → estructurar → automatizar)
-- 🧪 Probar cosas con **modelos locales livianos** (por ejemplo **Qwen**) para automatizar “cositas” y experimentar con flujos rápidos
-- 📱 Desarrollo móvil con **Flutter**
-- 🖥️ Apps de escritorio con **Python**
-- 🧱 Backend y frontend (me gusta entender el flujo completo)
+- 🐍 **Python** (mi main)
+- 🤖 **Automatización + IA aplicada** (herramientas que ahorran tiempo de verdad)
+- 🔌 **APIs** (REST, integraciones, JSON, consumo y construcción)
+- 🕷️ **Web scraping + datos** (extraer → limpiar → estructurar → automatizar)
+- 🧪 **Modelos locales livianos** (ej: **Qwen**) para flujos rápidos y “helpers”
+- 📱 **Flutter** (móvil)
+- 🖥️ **Apps de escritorio** con Python
+- 🧱 **Full-stack mindset** (me gusta entender el flujo completo)
 
 ---
 
@@ -49,18 +50,17 @@ while bug:
     refactor()
 ````
 
-No me basta con que funcione: me gusta saber **por qué** funciona (o por qué se rompió 😅).
-Me gusta dejar las cosas **entendibles**, **mantenibles** y fáciles de mejorar.
+No me basta con que “funcione”: me gusta saber **por qué** funciona… o por qué se rompió 😅.
 
 ---
 
-## 🛠️ Tecnologías que he visto / usado
+## 🛠️ Tech Stack
 
 ### Backend
 
-* Spring Boot
-* Java
 * Python
+* Java
+* Spring Boot
 * PHP
 
 ### Frontend
@@ -75,26 +75,27 @@ Me gusta dejar las cosas **entendibles**, **mantenibles** y fáciles de mejorar.
 
 * Flutter
 
-### Desktop
+### Tools
 
-* Python (apps de escritorio)
+* Linux
+* Git
 
 ---
 
 ## 🤖 IA + Automatización (modo laboratorio)
 
-Me gusta la IA, pero sobre todo **cuando se puede aplicar**: automatizar tareas, procesar texto/datos, crear helpers, scripts y herramientas que ahorren tiempo.
+Me gusta la IA **cuando se puede aplicar**: automatizar tareas, procesar texto/datos, crear scripts y herramientas útiles.
 
-He probado **modelos locales livianos** como **Qwen** para automatizar tareas pequeñas y experimentar:
+He experimentado con **modelos locales livianos** como **Qwen** para:
 
-* asistentes rápidos para texto
-* clasificar/ordenar información
-* pipelines simples (scraping + limpieza + salida útil)
+* asistentes rápidos de texto
+* clasificar / ordenar información
+* pipelines simples (scraping → limpieza → salida útil)
 * scripts para tareas repetitivas
 
 ---
 
-## 🧰 Skill Icons
+## 🧰 Skills
 
 <div align="center">
 
@@ -110,7 +111,7 @@ He probado **modelos locales livianos** como **Qwen** para automatizar tareas pe
 
 ## 🌐 Portafolio
 
-👉 [https://kriv-bit.vercel.app](https://kriv-bit.vercel.app)
+👉 **[https://kriv-bit.vercel.app](https://kriv-bit.vercel.app)**
 
 ---
 
@@ -128,4 +129,4 @@ He probado **modelos locales livianos** como **Qwen** para automatizar tareas pe
 **17 de febrero de 2026**
 
 ```
-```
+
