@@ -63,5 +63,4 @@ while bug:
 
 ```
 
-Si no quieres configurar nada, también te pongo otra decoración **sin snake** (solo stats/badges) y queda igual de bonito.
-```
+
