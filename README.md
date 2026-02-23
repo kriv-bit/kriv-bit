@@ -24,7 +24,7 @@ Me enfoco en **Python**, **automatización**, **APIs** y **datos** (scraping + p
 
 ---
 
-## Mentalidad (modo dev)
+## Mentalidad 
 
 ```python
 while bug:
@@ -64,6 +64,4 @@ while bug:
 
 ---
 
-*Última actualización: 17 de febrero de 2026*
-
-````
+*Última actualización: 22 de febrero de 2026*
