@@ -60,5 +60,3 @@ while bug:
 ---
 
 *Última actualización: 22 de febrero de 2026*
-
-```
