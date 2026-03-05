@@ -14,8 +14,6 @@
 Estudiante de **Ingeniería de Sistemas (9° semestre)** en la **Universidad de Nariño**.  
 Me enfoco en **Python**, **automatización**, **APIs** y **datos** (scraping + procesamiento).
 
-> ✨ Construyo cosas pequeñas que resuelven problemas reales.
-
 ---
 
 ## En qué trabajo / qué me gusta hacer
