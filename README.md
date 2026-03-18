@@ -49,7 +49,7 @@ while bug:
 
 ## Skills
 
-![Skills](https://skillicons.dev/icons?i=python,java,spring,php,react,nextjs,angular,js,ts,flutter,linux,docker,git\&perline=12)
+![Skills](https://skillicons.dev/icons?i=python,java,spring,php,react,nextjs,angular,js,ts,flutter,linux,docker,git\&perline=13)
 
 ---
 
