@@ -53,8 +53,4 @@ while bug:
 
 ---
 
-![Name Grid](https://raw.githubusercontent.com/kriv-bit/kriv-bit/output/name-grid.svg)
-
----
-
 *Última actualización: 22 de febrero de 2026*
