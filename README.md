@@ -14,7 +14,6 @@ Soy estudiante de **décimo semestre de Ingeniería de Sistemas** en la **Univer
 
 Me interesa desarrollar software que resuelva problemas reales mediante la integración de **backend**, **frontend**, **aplicaciones móviles** e **inteligencia artificial**. Disfruto participar en todo el ciclo de desarrollo, desde la idea inicial hasta el despliegue de una aplicación.
 
-Actualmente estoy buscando mi primera oportunidad como **Software Developer**, **Backend Developer** o **Full Stack Developer**.
 
 ---
 
@@ -48,31 +47,11 @@ PostgreSQL • Supabase • SQL • NoSQL
 
 **Inteligencia Artificial**
 
-OpenAI API • Groq • Deepgram • Embeddings • Prompt Engineering
+OpenAI API • Deepgram • Embeddings • Prompt Engineering • Agentic Coding
 
 **Herramientas**
 
 Git • GitHub • GitHub Actions • Docker • Linux • Postman • FFmpeg
-
----
-
-## Algunos proyectos
-
-- 🎫 **TicketAgil** — Plataforma Full Stack que utiliza inteligencia artificial para clasificar y priorizar tickets de soporte técnico.
-
-- 📚 **Bookworm** — Aplicación móvil que busca fomentar el hábito de lectura mediante gamificación, síntesis de voz y detección automática de parpadeo.
-
-- 🎵 **YouToMP3** — Aplicación de escritorio desarrollada en Python para descargar y convertir contenido multimedia conservando metadatos automáticamente.
-
----
-
-## Actualmente aprendiendo
-
-- Arquitectura de software
-- Go
-- Rust
-- .NET
-- Agentes de IA y automatización de flujos
 
 ---
 
