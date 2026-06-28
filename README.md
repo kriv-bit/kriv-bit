@@ -27,33 +27,6 @@ Me interesa desarrollar software que resuelva problemas reales mediante la integ
 
 ---
 
-## Tecnologías
-
-**Backend**
-
-Java • Spring Boot • Django • Python • APIs REST • JWT
-
-**Frontend**
-
-React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
-
-**Mobile**
-
-Flutter • Firebase
-
-**Bases de datos**
-
-PostgreSQL • Supabase • SQL • NoSQL
-
-**Inteligencia Artificial**
-
-OpenAI API • Deepgram • Embeddings • Prompt Engineering • Agentic Coding
-
-**Herramientas**
-
-Git • GitHub • GitHub Actions • Docker • Linux • Postman • FFmpeg
-
----
 
 ## Tech Stack
 
